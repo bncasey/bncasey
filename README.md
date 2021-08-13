@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bryce Casey
-- 👀 I’m interested in Software Devlopement
+- 👀 I’m interested in Web Devlopement
 - 🌱 I’m currently learning HTML, CSS , Javascript, Python
 - 💞️ I’m looking to collaborate on both small and large projects
 - 📫 You can reach me by email at bncasey20@gmail.com or mobile phone 631-905-1177
